@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Julián Enriquez</title>
-    <link href="https://github.com/julian-enriquez/julian-enriquez.git/feed.xml" rel="self" />
-    <link href="https://github.com/julian-enriquez/julian-enriquez.git" />
+    <link href="https://julian-enriquez.github.io/julian-enriquez/feed.xml" rel="self" />
+    <link href="https://julian-enriquez.github.io/julian-enriquez" />
     <updated>2026-06-24T15:34:42-03:00</updated>
     <author>
         <name>Julián Enriquez</name>
     </author>
-    <id>https://github.com/julian-enriquez/julian-enriquez.git</id>
+    <id>https://julian-enriquez.github.io/julian-enriquez</id>
 
     <entry>
         <title>Carta a mi amigo Rosendo Frego, director de “Las Orquídeas”</title>
         <author>
             <name>Julián Enriquez</name>
         </author>
-        <link href="https://github.com/julian-enriquez/julian-enriquez.git/carta-a-mi-amigo-rosendo-frego-director-de-las-orquideas-2/"/>
-        <id>https://github.com/julian-enriquez/julian-enriquez.git/carta-a-mi-amigo-rosendo-frego-director-de-las-orquideas-2/</id>
-        <media:content url="https://github.com/julian-enriquez/julian-enriquez.git/media/posts/10/Hand-Writing-PNG-Free-Image-1.png" medium="image" />
+        <link href="https://julian-enriquez.github.io/julian-enriquez/carta-a-mi-amigo-rosendo-frego-director-de-las-orquideas-2/"/>
+        <id>https://julian-enriquez.github.io/julian-enriquez/carta-a-mi-amigo-rosendo-frego-director-de-las-orquideas-2/</id>
+        <media:content url="https://julian-enriquez.github.io/julian-enriquez/media/posts/10/Hand-Writing-PNG-Free-Image-1.png" medium="image" />
             <category term="Literatura"/>
 
         <updated>2026-06-24T15:32:57-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://github.com/julian-enriquez/julian-enriquez.git/media/posts/10/Hand-Writing-PNG-Free-Image-1.png" alt="" />
+                        <img src="https://julian-enriquez.github.io/julian-enriquez/media/posts/10/Hand-Writing-PNG-Free-Image-1.png" alt="" />
                     Rosendo, Mi caro amigo, Recibí tu carta y es un gusto saludarte. Me alegro que estés hallándote en Roma y que el rodaje se&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/julian-enriquez/julian-enriquez.git/media/posts/10/Hand-Writing-PNG-Free-Image-1.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://julian-enriquez.github.io/julian-enriquez/media/posts/10/Hand-Writing-PNG-Free-Image-1.png" class="type:primaryImage" alt="" /></p>
                 <p><span style="font-weight: 400;">Rosendo,</span></p>
 <p><span style="font-weight: 400;">Mi caro amigo,</span></p>
 <p><span style="font-weight: 400;">Recibí tu carta y es un gusto saludarte.</span></p>
@@ -63,22 +63,22 @@
         <author>
             <name>Julián Enriquez</name>
         </author>
-        <link href="https://github.com/julian-enriquez/julian-enriquez.git/un-joven-estudiante-de-psicologia/"/>
-        <id>https://github.com/julian-enriquez/julian-enriquez.git/un-joven-estudiante-de-psicologia/</id>
-        <media:content url="https://github.com/julian-enriquez/julian-enriquez.git/media/posts/8/Shoah-704412970-large.jpg" medium="image" />
+        <link href="https://julian-enriquez.github.io/julian-enriquez/un-joven-estudiante-de-psicologia/"/>
+        <id>https://julian-enriquez.github.io/julian-enriquez/un-joven-estudiante-de-psicologia/</id>
+        <media:content url="https://julian-enriquez.github.io/julian-enriquez/media/posts/8/Shoah-704412970-large.jpg" medium="image" />
             <category term="Ensayos"/>
             <category term="Cine"/>
 
         <updated>2026-06-24T15:15:43-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://github.com/julian-enriquez/julian-enriquez.git/media/posts/8/Shoah-704412970-large.jpg" alt="" />
+                        <img src="https://julian-enriquez.github.io/julian-enriquez/media/posts/8/Shoah-704412970-large.jpg" alt="" />
                     Desconfío de los títulos largos. Desconfío de la gente que los elige: es como si quisieran empezar a hacerte leer el texto ya desde&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/julian-enriquez/julian-enriquez.git/media/posts/8/Shoah-704412970-large.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://julian-enriquez.github.io/julian-enriquez/media/posts/8/Shoah-704412970-large.jpg" class="type:primaryImage" alt="" /></p>
                 <p><span style="font-weight: 400;">Desconfío de los títulos largos. Desconfío de la gente que los elige: es como si quisieran empezar a hacerte leer el texto ya desde el título. Desconfío de mí mismo.</span></p>
 <p><span style="font-weight: 400;">Pero desconfío en el buen sentido. Me gusta pensar que los buenos científicos son gente desconfiada, que no asume que lo que ve es acertado hasta que va a comprobarlo y a rechequearlo. E incluso ahí… habiéndose probado… algo en el fondo les sigue resonando… ¿y si…? </span><i><span style="font-weight: 400;">No hay otra forma de acercarse al sentido de la vida que desde la desconfianza.</span></i></p>
 <p><span style="font-weight: 400;">--</span></p>
@@ -143,25 +143,25 @@
         <author>
             <name>Julián Enriquez</name>
         </author>
-        <link href="https://github.com/julian-enriquez/julian-enriquez.git/el-infierno-esta-encantador-recomendaciones-desde-el-inframundo/"/>
-        <id>https://github.com/julian-enriquez/julian-enriquez.git/el-infierno-esta-encantador-recomendaciones-desde-el-inframundo/</id>
-        <media:content url="https://github.com/julian-enriquez/julian-enriquez.git/media/posts/7/CE-2460-ANV.D_ret.jpg" medium="image" />
+        <link href="https://julian-enriquez.github.io/julian-enriquez/el-infierno-esta-encantador-recomendaciones-desde-el-inframundo/"/>
+        <id>https://julian-enriquez.github.io/julian-enriquez/el-infierno-esta-encantador-recomendaciones-desde-el-inframundo/</id>
+        <media:content url="https://julian-enriquez.github.io/julian-enriquez/media/posts/7/CE-2460-ANV.D_ret.jpg" medium="image" />
             <category term="Ensayos"/>
 
         <updated>2026-06-24T14:57:14-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://github.com/julian-enriquez/julian-enriquez.git/media/posts/7/CE-2460-ANV.D_ret.jpg" alt="" />
+                        <img src="https://julian-enriquez.github.io/julian-enriquez/media/posts/7/CE-2460-ANV.D_ret.jpg" alt="" />
                     Texto originalmente publicado en una revista de Motor Psico, Psicología UBA, Marzo 2025. Volumen I: El Dante y Canserbero Dante por Carlos Alonso, artista&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/julian-enriquez/julian-enriquez.git/media/posts/7/CE-2460-ANV.D_ret.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://julian-enriquez.github.io/julian-enriquez/media/posts/7/CE-2460-ANV.D_ret.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Texto originalmente publicado en una revista de Motor Psico, Psicología UBA, Marzo 2025.</p>
 <hr>
 <p><i><span style="font-weight: 400;">Volumen I: El Dante y Canserbero</span></i></p>
-<figure class="post__image align-center"><img loading="lazy"  src="https://github.com/julian-enriquez/julian-enriquez.git/media/posts/7/DEABYS5RKJC6JD3RTLXX7HCQSE.jpg" alt="" width="376" height="438" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://github.com/julian-enriquez/julian-enriquez.git/media/posts/7/responsive/DEABYS5RKJC6JD3RTLXX7HCQSE-xs.jpg 320w ,https://github.com/julian-enriquez/julian-enriquez.git/media/posts/7/responsive/DEABYS5RKJC6JD3RTLXX7HCQSE-sm.jpg 480w ,https://github.com/julian-enriquez/julian-enriquez.git/media/posts/7/responsive/DEABYS5RKJC6JD3RTLXX7HCQSE-md.jpg 768w ,https://github.com/julian-enriquez/julian-enriquez.git/media/posts/7/responsive/DEABYS5RKJC6JD3RTLXX7HCQSE-xl.jpg 1024w"></figure>
+<figure class="post__image align-center"><img loading="lazy"  src="https://julian-enriquez.github.io/julian-enriquez/media/posts/7/DEABYS5RKJC6JD3RTLXX7HCQSE.jpg" alt="" width="376" height="438" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://julian-enriquez.github.io/julian-enriquez/media/posts/7/responsive/DEABYS5RKJC6JD3RTLXX7HCQSE-xs.jpg 320w ,https://julian-enriquez.github.io/julian-enriquez/media/posts/7/responsive/DEABYS5RKJC6JD3RTLXX7HCQSE-sm.jpg 480w ,https://julian-enriquez.github.io/julian-enriquez/media/posts/7/responsive/DEABYS5RKJC6JD3RTLXX7HCQSE-md.jpg 768w ,https://julian-enriquez.github.io/julian-enriquez/media/posts/7/responsive/DEABYS5RKJC6JD3RTLXX7HCQSE-xl.jpg 1024w"></figure>
 <p class="align-center"><i><span style="font-weight: 400;">Dante por Carlos Alonso, artista mendocino</span></i></p>
 <p><i><span style="font-weight: 400;">Los clásicos por algo son clásicos</span></i><span style="font-weight: 400;">. Hace poco leí por primera vez</span><strong> La Divina Comedia</strong><span style="font-weight: 400;">, de </span><strong>Dante Alighieri</strong><span style="font-weight: 400;">, y entendí por qué se sostiene como un libro icónico después de tantos siglos de su publicación.</span></p>
 <p><span style="font-weight: 400;">El libro es un poema dividido en tres cantos: El Infierno, El Purgatorio y El Cielo. Dante lo escribe alrededor del 1300 y decide colocarse a sí mismo como protagonista (insólito en la literatura de esos tiempos) emprendiendo un viaje de lo más interesante. Comienza perdido, en una selva, para luego adentrarse en el Infierno, guiado por Virgilio (el poeta romano), y ascender hasta el Cielo.</span></p>
@@ -170,7 +170,7 @@
 <p><span style="font-weight: 400;">Resulta escabroso perderse en la selva, el Infierno infunde terror en sus detalles, el Purgatorio como aquel terreno inquietante, el Cielo como el blanco fulgor de la Verdad Última que nos encandila. Experimentar la travesía con Dante, junto a Virgilio y Beatriz, es más que placentero.</span></p>
 <p><span style="font-weight: 400;">--</span></p>
 <p><i><span style="font-weight: 400;">Los clásicos por algo son clásicos</span></i><span style="font-weight: 400;">. Después de esta lectura llegué por casualidad a escuchar de nuevo </span><strong>Vida </strong><span style="font-weight: 400;">y </span><strong>Muerte</strong><span style="font-weight: 400;">, los dos discos más emblemáticos de </span><strong>Canserbero</strong><span style="font-weight: 400;">. El rapero venezolano menciona a Dante en su tema más conocido, “Es épico”, donde baja al Infierno y rapea contra el Diablo, y sus letras constantemente oscilan entre temáticas oscuras, la relación con la muerte, con la violencia, la moral y los temas políticos.</span></p>
-<figure class="post__image align-center"><img loading="lazy"  src="https://github.com/julian-enriquez/julian-enriquez.git/media/posts/7/maxresdefault.jpg" alt="" width="1280" height="720" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://github.com/julian-enriquez/julian-enriquez.git/media/posts/7/responsive/maxresdefault-xs.jpg 320w ,https://github.com/julian-enriquez/julian-enriquez.git/media/posts/7/responsive/maxresdefault-sm.jpg 480w ,https://github.com/julian-enriquez/julian-enriquez.git/media/posts/7/responsive/maxresdefault-md.jpg 768w ,https://github.com/julian-enriquez/julian-enriquez.git/media/posts/7/responsive/maxresdefault-xl.jpg 1024w"></figure>
+<figure class="post__image align-center"><img loading="lazy"  src="https://julian-enriquez.github.io/julian-enriquez/media/posts/7/maxresdefault.jpg" alt="" width="1280" height="720" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://julian-enriquez.github.io/julian-enriquez/media/posts/7/responsive/maxresdefault-xs.jpg 320w ,https://julian-enriquez.github.io/julian-enriquez/media/posts/7/responsive/maxresdefault-sm.jpg 480w ,https://julian-enriquez.github.io/julian-enriquez/media/posts/7/responsive/maxresdefault-md.jpg 768w ,https://julian-enriquez.github.io/julian-enriquez/media/posts/7/responsive/maxresdefault-xl.jpg 1024w"></figure>
 <p class="align-center"><i><span style="font-weight: 400;">El ouroboros de la tapa de los discos de Canserbero</span></i></p>
 <p> </p>
 <p><span style="font-weight: 400;">Canserbero es un clásico dentro del rap en español. Sus denuncias sociales lo colocan como un exponente del </span><i><span style="font-weight: 400;">rap conciencia</span></i><span style="font-weight: 400;">, y él se jacta de rapear sobre temas más serios y comprometidos mientras el reggaetón y el resto de raperos hablan de estupideces. Para Canserbero, el Infierno está en la vida real, en las calles donde vive:</span></p>
@@ -198,22 +198,22 @@
         <author>
             <name>Julián Enriquez</name>
         </author>
-        <link href="https://github.com/julian-enriquez/julian-enriquez.git/geolocalizacion-de-la-verdad/"/>
-        <id>https://github.com/julian-enriquez/julian-enriquez.git/geolocalizacion-de-la-verdad/</id>
-        <media:content url="https://github.com/julian-enriquez/julian-enriquez.git/media/posts/6/plantilla-mapa-mundo-sketch_1284-10181.avif" medium="image" />
+        <link href="https://julian-enriquez.github.io/julian-enriquez/geolocalizacion-de-la-verdad/"/>
+        <id>https://julian-enriquez.github.io/julian-enriquez/geolocalizacion-de-la-verdad/</id>
+        <media:content url="https://julian-enriquez.github.io/julian-enriquez/media/posts/6/plantilla-mapa-mundo-sketch_1284-10181.avif" medium="image" />
             <category term="Ensayos"/>
             <category term="Cine"/>
 
         <updated>2026-06-24T14:46:03-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://github.com/julian-enriquez/julian-enriquez.git/media/posts/6/plantilla-mapa-mundo-sketch_1284-10181.avif" alt="" />
+                        <img src="https://julian-enriquez.github.io/julian-enriquez/media/posts/6/plantilla-mapa-mundo-sketch_1284-10181.avif" alt="" />
                     Texto publicado originalmente en Segundo Subsuelo, revista de cine de la ENERC, 2024. Últimamente vengo escribiendo historias cortas. Me pregunto todos los días dónde&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/julian-enriquez/julian-enriquez.git/media/posts/6/plantilla-mapa-mundo-sketch_1284-10181.avif" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://julian-enriquez.github.io/julian-enriquez/media/posts/6/plantilla-mapa-mundo-sketch_1284-10181.avif" class="type:primaryImage" alt="" /></p>
                 <p><em>Texto publicado originalmente en Segundo Subsuelo, revista de cine de la ENERC, 2024.</em></p>
 <hr>
 <p><span style="font-weight: 400;">Últimamente vengo escribiendo historias cortas. Me pregunto todos los días dónde está el recorte adecuado de la realidad, la mejor forma de presentar las cosas, cierta</span><i><span style="font-weight: 400;"> verdad última</span></i><span style="font-weight: 400;"> que transmiten Chéjov, Poe, y otros, en sus cuentos.</span></p>
@@ -234,21 +234,21 @@
         <author>
             <name>Julián Enriquez</name>
         </author>
-        <link href="https://github.com/julian-enriquez/julian-enriquez.git/sobre-como-aprendemos-cine/"/>
-        <id>https://github.com/julian-enriquez/julian-enriquez.git/sobre-como-aprendemos-cine/</id>
-        <media:content url="https://github.com/julian-enriquez/julian-enriquez.git/media/posts/4/pngtree-cinema-film-roll-sketch-cinema-ribbon-in-doodle-style-png-image_15994874.png" medium="image" />
+        <link href="https://julian-enriquez.github.io/julian-enriquez/sobre-como-aprendemos-cine/"/>
+        <id>https://julian-enriquez.github.io/julian-enriquez/sobre-como-aprendemos-cine/</id>
+        <media:content url="https://julian-enriquez.github.io/julian-enriquez/media/posts/4/pngtree-cinema-film-roll-sketch-cinema-ribbon-in-doodle-style-png-image_15994874.png" medium="image" />
             <category term="Literatura"/>
 
         <updated>2026-06-24T11:46:19-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://github.com/julian-enriquez/julian-enriquez.git/media/posts/4/pngtree-cinema-film-roll-sketch-cinema-ribbon-in-doodle-style-png-image_15994874.png" alt="" />
+                        <img src="https://julian-enriquez.github.io/julian-enriquez/media/posts/4/pngtree-cinema-film-roll-sketch-cinema-ribbon-in-doodle-style-png-image_15994874.png" alt="" />
                     Texto originalmente publicado en las revistas Urbe y Artie, 2025. Actualmente me encuentro cursando el último año de la carrera de Montaje de la&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/julian-enriquez/julian-enriquez.git/media/posts/4/pngtree-cinema-film-roll-sketch-cinema-ribbon-in-doodle-style-png-image_15994874.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://julian-enriquez.github.io/julian-enriquez/media/posts/4/pngtree-cinema-film-roll-sketch-cinema-ribbon-in-doodle-style-png-image_15994874.png" class="type:primaryImage" alt="" /></p>
                 <p><em><span style="color: #02192b;">Texto originalmente publicado en las revistas Urbe y Artie, 2025.</span></em></p>
 <hr>
 <p><span style="font-weight: 400;">Actualmente me encuentro cursando el último año de la carrera de Montaje de la Enerc. Para ser más claros, cuando hablamos de montaje nos referimos a editar películas, y cuando hablamos de la Enerc nos referimos a la escuela de cine del INCAA.</span></p>
